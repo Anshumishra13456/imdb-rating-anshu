@@ -1,0 +1,7 @@
+.login-page {
+    background-color: white;
+    min-height: 100vh;
+    overflow-y: hidden;
+    height: 100vh; /* This sets the height to the viewport height */
+    color: black;
+  }

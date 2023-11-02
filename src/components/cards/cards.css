@@ -1,0 +1,25 @@
+.cards{
+  display: inline-block;
+  transition: transform 0.2s;
+  border-radius: 10px;
+  overflow: hidden;
+  border:1px solid black;
+  margin:5px;
+}
+
+.cards_img:hover{
+  transform: scale(1.2);
+
+}
+
+.cards_img{
+  height: 550px;
+  
+}
+.cards_overlay{
+  opacity: 0.8;
+}
+
+.card_rating{
+  float: right;
+}
